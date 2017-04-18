@@ -112,7 +112,6 @@ Before you submit your issue, label it. You can choose one from the "Labels" dro
 
 We have challenge labels for:
 
-
 - game-jam-challenge (purple).
 
 We also have labels for site-related news, as well as for finding help and answering questions:
