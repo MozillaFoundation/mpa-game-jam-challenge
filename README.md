@@ -1,6 +1,8 @@
 # Game Jam Challenge
 
-**Challenge Leads:** Chad Sansing, Luke Pacholski, [still recruiting....]
+![A line-drawing icon showing a wifi signal coming from a video game controller](images/game-jam-3.png)
+
+**Challenge Leads:** Luke Pacholski (@flukeout), Chad Sansing (@chadsansing)
 
 ## Description
 
